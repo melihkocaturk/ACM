@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea90df8d-bfb6-4c35-bd8b-4cd8bbf1e23f": {
+      "ProjectGuid": "ea90df8d-bfb6-4c35-bd8b-4cd8bbf1e23f",
+      "DisplayName": "ACM.BLTest",
+      "ColorIndex": 0
+    },
+    "cabfbebe-d2b0-4606-93cc-3e644572fc37": {
+      "ProjectGuid": "cabfbebe-d2b0-4606-93cc-3e644572fc37",
+      "DisplayName": "Tests",
+      "ColorIndex": 1
+    },
+    "d38c3450-9d8b-4eb0-9d55-c3bad03fc284": {
+      "ProjectGuid": "d38c3450-9d8b-4eb0-9d55-c3bad03fc284",
+      "DisplayName": "ACM.BL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "6a44d2d8-560b-459a-b9d6-4453790d5ffe": {
+      "ProjectGuid": "6a44d2d8-560b-459a-b9d6-4453790d5ffe",
+      "DisplayName": "ACM.Test",
+      "ColorIndex": 3
+    },
+    "86089f79-22cc-4336-a811-2076b0597739": {
+      "ProjectGuid": "86089f79-22cc-4336-a811-2076b0597739",
+      "DisplayName": "ACM.Common",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

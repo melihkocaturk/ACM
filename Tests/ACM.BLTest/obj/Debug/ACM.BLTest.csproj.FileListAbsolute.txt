@@ -1,0 +1,2 @@
+D:\Repo\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.AssemblyReference.cache
+D:\Repo\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CoreCompileInputs.cache
